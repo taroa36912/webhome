@@ -5,6 +5,10 @@ body{
     justify-content:center;
 }
 
+.wrap{
+  overflow: hidden;
+}
+
 .main-menu{
   margin: 30px 0 0 10px;
 }

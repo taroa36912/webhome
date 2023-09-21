@@ -5,3 +5,7 @@ body a{
   padding: 20px 200px;
   text-decoration:none;
 }
+
+.wrap{
+  overflow: hidden;
+}

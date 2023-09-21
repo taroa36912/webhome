@@ -9,6 +9,10 @@ body{
     color: #FFF;
 }
 
+.wrap{
+    overflow: hidden;
+}
+
 .search{
     width: 100%;
 }

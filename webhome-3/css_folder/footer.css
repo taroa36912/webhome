@@ -6,6 +6,10 @@ body{
   background-color: #e0ffff;
 }
 
+.wrap{
+  overflow: hidden;
+}
+
 .logo2 {
   width: 200px;
   height: 100px;

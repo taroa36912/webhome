@@ -4,6 +4,10 @@
   margin: 5px 0 0 0;
 }
 
+.wrap{
+  overflow: hidden;
+}
+
 .popular-arti{
   padding: 1em 2.3em 1.3em;
   margin: 30px 15px 10px 0;

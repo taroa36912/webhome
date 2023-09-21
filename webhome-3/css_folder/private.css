@@ -7,7 +7,7 @@ body{
 }
 
 body p{
-  margin: 80px 0;
+  margin: 20px 0;
 }
 
 body a{
@@ -84,8 +84,7 @@ header{
 }
 
 .arti h2{
-  border-bottom: 1px solid #000;
-  margin: 40px 0 40px 0;
+  text-align: center;
 }
 
 .arti h3{

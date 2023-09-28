@@ -22,7 +22,7 @@
             </div>
             <div class="arti">
                 <h1>お問い合わせフォーム</h1>
-                <a href=index.html><img class="logo" src="../img/Pac.png"></a><p class="open_day">公開日 2023/09/26</p>
+                <a href=../index.html><img class="logo" src="../img/Pac.png"></a><p class="open_day">公開日 2023/09/26</p>
                 <div class="php">
                 <?php
                     mb_language("Japanese");

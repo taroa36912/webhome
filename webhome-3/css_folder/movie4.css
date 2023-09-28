@@ -94,10 +94,16 @@ body{
   
   .arti h3{
     border-bottom: 1px solid #009ADA;
+    text-align: center;
   }
   
   .fan_1{
     display: flex;
+  }
+
+  .samune{
+    width: 300px;
+    height: 400px;
   }
   
   .link{

@@ -34,7 +34,9 @@ window.onload = function() {
         if (site.content.includes(keyword)) {
             const iframe = document.createElement('iframe');
             iframe.src = site.url;
-            iframe.style.width = '500px';
+            // ここでiframeの基本的な横幅を設定
+            iframe.style.width = '90%';
+            iframe.style.maxWidth = '500px';
             resultsDiv.appendChild(iframe);
         }
     }

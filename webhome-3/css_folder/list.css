@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    margin:0 auto;
+    background-color: white;
+    color: #000;
+    justify-content:center;
+}
+
+img{
+    width: 100px;
+    height: 70px;
+}
+
+body a{
+    text-decoration:none;
+    color: black;
+}
+
+body h1{
+    font-size: 20px;
+}

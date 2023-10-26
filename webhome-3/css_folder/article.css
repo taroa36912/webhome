@@ -159,6 +159,11 @@ body{
     width: 500%;
     margin: 10px 250px 0 0;
   }
+
+  iframe.relate{
+    width: 500px;
+    height: 1000px;
+  }
   
   .free_img{
     width: 400px;

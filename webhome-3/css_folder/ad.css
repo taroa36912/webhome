@@ -1,11 +1,47 @@
-.arti-list img{
+  .ad-maxwidth img{
     display: block;
     margin: 0 auto;
 
   }
 
-  .arti-list a{
+  .ad-maxwidth a{
     display: block;
-    margin: 10px 0 10px 0;
+    margin: 10px 0;
+
+  }
+
+  iframe.relate{
+    width: 500px;
+    height: 1000px;
+    margin: 0 0 0 -20px;
+  }
+
+  iframe.relate-mobile{
+    display: none;
+  }
+
+
+  @media screen and (max-width: 959px) {
+    iframe.relate{
+      width: 500px;
+      height: 1000px;
+    }
+
+    iframe.relate-mobile{
+      display: none;
+    }
+  }
+
+
+  @media screen and (max-width: 532px) {
+    iframe.relate{
+      display: none;
+    }
+
+    iframe.relate-mobile{
+      display: block;
+      width: 400px;
+      height: 1000px;
+    }
 
   }

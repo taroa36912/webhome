@@ -85,7 +85,7 @@ body{
   }
   
   .arti{
-    margin: 30px auto;
+    margin: 30px 40px 30px 0;
     width: 40%;
   }
   
@@ -155,11 +155,6 @@ body{
     width: 500%;
     margin: 10px 250px 0 0;
   }
-
-  iframe.relate{
-    width: 500px;
-    height: 1000px;
-  }
   
   .free_img{
     width: 400px;
@@ -180,7 +175,7 @@ body{
   /* 959px以下に適用されるCSS（タブレット用） */
   
     .arti{
-        margin: 30px 10px;
+        margin: 30px 30px;
         width: 100%;
     }
   
@@ -196,7 +191,6 @@ body{
     .arti-1 h1{
         font-size: 15px;
         width: 100%;
-  
     }
   
     .left{
@@ -215,6 +209,11 @@ body{
     .main-body{
         margin: -20px 0 0 0;
     }
+
+    .arti{
+      margin: 10px;
+      width: 90%;
+    }
   
     .left{
         display: none;
@@ -227,4 +226,5 @@ body{
     footer iframe{
         height: 850px;
     }
+
   }

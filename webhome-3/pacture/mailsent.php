@@ -3,7 +3,8 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <link rel="stylesheet" href="../css_folder/inquiry.css"><!--css名変える-->
+        <link rel="stylesheet" href="../css_folder/inquiry.css">
+        <link rel="stylesheet" href="../css_folder/ad.css">
         <title>送信完了</title><!--1.タイトル-->
         <meta name="description" content="送信が完了しました"><!--2.説明文-->
         <meta name="keywords" content="送信完了"><!--3.キーワード-->

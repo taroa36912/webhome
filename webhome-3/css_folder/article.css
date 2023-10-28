@@ -137,10 +137,6 @@ body{
     text-decoration:none;
   }
   
-  .arti-list{
-    margin: 30px 60px;
-  }
-  
   .arti-1{
     margin: 20px 0 30px;
     background-color: #e0ffff;
@@ -164,6 +160,18 @@ body{
     width: 500px;
     height: 1000px;
   }
+
+  .arti-list img{
+    display: block;
+    margin: 0 auto;
+
+  }
+
+  .arti-list a{
+    display: block;
+    margin: 10px 0 10px 0;
+
+  }
   
   .free_img{
     width: 400px;
@@ -183,10 +191,10 @@ body{
   @media screen and (max-width: 959px) {
   /* 959px以下に適用されるCSS（タブレット用） */
   
-    .main-body iframe{
+    /*.main-body iframe{
         width: 160px;
         margin: 20px 0 0 0;
-    }
+    }*/
   
     .arti{
         margin: 30px 10px;

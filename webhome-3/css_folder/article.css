@@ -175,8 +175,8 @@ body{
   /* 959px以下に適用されるCSS（タブレット用） */
   
     .arti{
-        margin: 30px 30px;
-        width: 100%;
+        margin: 10px 0 10px 20px;
+        width: 90%;
     }
   
     .table{

@@ -38,6 +38,10 @@
       display: none;
     }
 
+    .ad-maxwidth{
+      display: none;
+    }
+
     iframe.relate-mobile{
       display: block;
       width: 400px;

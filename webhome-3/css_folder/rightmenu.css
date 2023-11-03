@@ -1,7 +1,11 @@
 .rank img{
-  width: 50px;
-  height: 30px;
-  margin: 5px 0 0 0;
+  width: 70px;
+  height: 40px;
+  margin: 10px 0 0 0;
+}
+
+.rank-img{
+  display: flex;
 }
 
 .wrap{
@@ -13,16 +17,20 @@
   margin: 30px 15px 10px 0;
   font-weight: bold;
   border: solid 3px #000;
+  height: 450px;
 }
 
 .popular-arti h1{
-  font-size: 15px;
+  font-size: 20px;
   text-align: center;
 }
 
-.rank {
-  font-size: 3px;
+.rank{
+  font-size: 15px;
   border-top: solid 1px #000;
+  width: 130%;
+  flex-direction: column;
+  margin: 0 0 0 -20px;
 }
 
 .new-arti{

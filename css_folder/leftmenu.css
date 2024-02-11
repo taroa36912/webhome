@@ -1,0 +1,56 @@
+body{
+    margin:0 auto;
+    background-color: white;
+    color: #000;
+    justify-content:center;
+}
+
+.wrap{
+  overflow: hidden;
+}
+
+.main-menu{
+  margin: 30px 0 0 10px;
+}
+
+.menu{
+  width: 200px;
+  padding: 0 0 20px;
+  background-color: #e0ffff;
+  border: #000 1px solid;
+  margin: 0 0 20px 0;
+}
+
+.menu img{
+  width: 40px;
+  height: 35px;
+}
+
+.menu h1{
+  font-size: 20px;
+}
+
+.menu li{
+  border-bottom: 1px solid black;
+  margin: 0 20px 0 0;
+}
+
+@media screen and (max-width: 160px) {
+
+  body{
+    font-size: 10px;
+  }
+
+  .menu{
+    width: 145px;
+  }
+
+  .menu h1{
+    font-size: 15px;
+  }
+
+  .menu img{
+    width: 30px;
+    height: 25px;
+  }
+}

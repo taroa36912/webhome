@@ -1,0 +1,62 @@
+body{
+    width: 100%;
+    margin:0 auto;
+    background-color: white;
+    color: #000;
+    justify-content:center;
+    padding: 30px;
+    background: #acffff;
+    color: #FFF;
+}
+
+.wrap{
+    overflow: hidden;
+}
+
+.search{
+    width: 70%;
+}
+
+
+body img{
+    height: 40px;
+    width: 250px;
+
+}
+
+body h1{
+    font-size: 20px;
+    font-family: "Hiragino Sans", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    color: black;
+    margin: -55px 100px 0 auto;
+    width: 20%;
+    padding: 5px 20px;
+    background-color: #00bfff;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+@media screen and (max-width: 532px) {
+	/* 480px以下に適用されるCSS（スマホ用） */
+
+    body img{
+        height: 30px;
+        width: 180px;
+    
+    }
+    
+    body h1{
+        font-size: 20px;
+        font-family: "Hiragino Sans", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+        color: black;
+        margin: -45px 50px 0 auto;
+        width: 19%;
+        padding: 5px 20px;
+        background-color: #00bfff;
+        border-radius: 20px;
+        text-align: center;
+    
+    }
+
+}

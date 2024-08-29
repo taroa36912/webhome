@@ -50,6 +50,8 @@ a. githubのPull Requestを開く
 b. 右上のNew Pull requestをクリック
 c. compareを自分のブランチに設定
 d. pull Requestを作成する
+e. Create Pull Requestを選択
+f. 任意にコメントし，Create Pull Requestを選択
 
 ### 7. discord上で連絡
 webサイト/git連絡用にて，コミット名のスレッドを作成し，やちをメンションし，Pull Requestのリンクを貼って連絡すること

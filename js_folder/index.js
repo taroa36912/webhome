@@ -6,6 +6,8 @@ const sites = [
     { url: 'list/l-OVEN.html', content: '電子レンジ, オーブン, レンジ, 単機能, 冷凍, 解凍, 温め, レンチン, 料理'},
     { url: 'list/l-washing.html', content: '洗濯, 洗濯機, 夏, 汗, 清潔, 布団' },
     { url: 'list/l-whisky.html', content: 'お酒, ウイスキー, アルコール, 20歳, 酒'},
+    { url: 'list/l-camp.html', content: 'キャンプ,秋,秋キャンプ,テント,ランタン'},
+
 ];
 
 

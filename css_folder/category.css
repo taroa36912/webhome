@@ -58,6 +58,7 @@ header{
   color: black;
   display: flex;
   width: 100%;
+  height: auto;
 }
 
 .left{
@@ -66,8 +67,8 @@ header{
 }
 
 .left iframe{
-  width: 220px;
-  height: 1000px;
+  width: auto;
+  height : 1500px;
 }
 
 .right{
@@ -77,8 +78,8 @@ header{
 
 
 .right iframe{
-  width: 220px;
-  height: 1300px;
+  width: auto;
+  height: 1700px;
 }
 
 .arti-list{
@@ -105,6 +106,10 @@ header{
   margin: 10px 250px 0 0;
 }
 
+.ad {
+  height:300px;
+}
+
 footer {
   padding: 10px 0;
   margin: 20px 0 0;
@@ -124,7 +129,7 @@ footer iframe{
   }
 
   .main-body iframe{
-      width: 160px;
+      width: auto;
       margin: 20px 0 0 0;
   }
 
